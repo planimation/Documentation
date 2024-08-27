@@ -1,0 +1,5 @@
+(define (problem buttonworld-1)
+    (:domain buttonworld)
+    (:objects b)
+    (:init (button b))
+    (:goal (pushed b)))
